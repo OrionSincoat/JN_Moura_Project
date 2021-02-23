@@ -3,7 +3,7 @@
 <h3>Introdução:</h3>
 <p>
   Este programa é uma Aplicação Web feito em Visual Studio de acordo com o pedido no email do Processo seletivo (Logo abaixo os itens do email), 
-  optei por persistir o objeto em memória para facilitar a visualização.
+  optei por persistir o objeto em memória para facilitar a instalação.
 </p>
 <p>
   Até o presente momento, meus conhecimentos são mais voltados para Desempenho e performance, devido as características do projeto pedido, não pude
