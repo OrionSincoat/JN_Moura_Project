@@ -2,7 +2,8 @@
 
 <h3>Introdução:</h3>
 <p>
-  Este programa é uma Aplicação Web feito em Visual Studio de acordo com o pedido no email do Processo seletivo (Logo abaixo os itens do email)
+  Este programa é uma Aplicação Web feito em Visual Studio de acordo com o pedido no email do Processo seletivo (Logo abaixo os itens do email), 
+  optei por persistir o objeto em memória para facilitar a visualização.
 </p>
 <p>
   Até o presente momento, meus conhecimentos são mais voltados para Desempenho e performance, devido as características do projeto pedido, não pude
@@ -31,7 +32,11 @@ Segue itens Email:
 </ul>  
 
 
-
-<p>
-</p>
-https://visualstudio.microsoft.com/pt-br/downloads/
+<h3>Instalação</h3>
+<ol>
+<li>Caso não tenha o Visual Studio, baixe a versão da Comunidade que é gratuíta em https://visualstudio.microsoft.com/pt-br/downloads/ e instale de acordo com os padrão da microsoft (next-...-next-finish)</li>
+<li>Faça o download do zip do master branch do repositório JN_Moura_Project através do botão "Code"</li>
+<li>Abra a solução "WebApplication.sln" utilizando o visual studio baixado</li>
+<li>Compile e rode utilizando ISS Express usando seu navegador favorito com a configuração de solução em "Debug" </li>
+</ol>
+  
